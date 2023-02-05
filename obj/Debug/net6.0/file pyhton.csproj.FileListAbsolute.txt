@@ -1,0 +1,10 @@
+C:\Users\my pc\Documents\file pyhton\obj\Debug\net6.0\file pyhton.csproj.AssemblyReference.cache
+C:\Users\my pc\Documents\file pyhton\obj\Debug\net6.0\file pyhton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Documents\file pyhton\obj\Debug\net6.0\file pyhton.AssemblyInfoInputs.cache
+C:\Users\my pc\Documents\file pyhton\obj\Debug\net6.0\file pyhton.AssemblyInfo.cs
+C:\Users\my pc\Documents\file pyhton\obj\Debug\net6.0\file pyhton.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Documents\File_Python\obj\Debug\net6.0\file pyhton.csproj.AssemblyReference.cache
+C:\Users\my pc\Documents\File_Python\obj\Debug\net6.0\file pyhton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Documents\File_Python\obj\Debug\net6.0\file pyhton.AssemblyInfoInputs.cache
+C:\Users\my pc\Documents\File_Python\obj\Debug\net6.0\file pyhton.AssemblyInfo.cs
+C:\Users\my pc\Documents\File_Python\obj\Debug\net6.0\file pyhton.csproj.CoreCompileInputs.cache

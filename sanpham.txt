@@ -1,0 +1,35 @@
+Mã#tên#Hãng#giá#số lượng#Tình trạng
+A001#Sua Rua Mat Tra Xanh 150ml#Innisfree#190000#98#Còn
+A002#Sua Rua Mat Giup Lam Sach Da, Giam Mun#Mediheal#130000#0#Hết hàng
+A003#Sua Rua Mat Lam Sang Da, Duong Am 150ml#The Saem#100000#812#Càn
+A004#Dau tay trang chiet xuat tinh chat hat tao xanh#Innisfree#260000#789#Còn
+A005#Nuoc tay trang chiet xuat Tram Tra 300ml#The Saem#139000#567#Còn
+B001#Kem chong nang kiem dau#Innisfree#199000#235#Còn
+B002# Kem Chong Nang Chong Troi#Innisfree#240000#675#Con
+B003#Kem chong nang dang sua# Missha#295000#0#Het hang
+B004#Kem Chong Nang Ngan Ngua Lao Hoa#Cel Fusion C#700000#23#Con
+B005#Xit khoang cap nuoc, chong lao hoa# Aritaum#199000#765#Con
+B006#Xit Khoang Tra Xanh 150Ml#Innisfree#280000#456#Con
+C001#Thoi Son Li 3CE#3ce#250000#2034#Con
+C002#Son Kem Li Beauty#Beauty Co#180000#421#Con
+C003#Son Kem Li 3CE#3ce#300000#2569#Con
+A005#Nuoc tay trang chiet xuat Tram Tra 300ml#The Saem#139000#567#Còn
+B001#Kem chong nang kiem dau#Innisfree#199000#235#Còn
+B002# Kem Chong Nang Chong Troi#Innisfree#240000#675#Con
+B003#Kem chong nang dang sua# Missha#295000#0#Het hang
+B004#Kem Chong Nang Ngan Ngua Lao Hoa#Cel Fusion C#700000#23#Con
+B005#Xit khoang cap nuoc, chong lao hoa# Aritaum#199000#765#Con
+B006#Xit Khoang Tra Xanh 150Ml#Innisfree#280000#456#Con
+C001#Thoi Son Li 3CE#3ce#250000#2034#Con
+C002#Son Kem Li Beauty#Beauty Co#180000#421#Con
+C003#Son Kem Li 3CE#3ce#300000#2569#Con
+A005#Nuoc tay trang chiet xuat Tram Tra 300ml#The Saem#139000#567#Còn
+B001#Kem chong nang kiem dau#Innisfree#199000#235#Còn
+B002# Kem Chong Nang Chong Troi#Innisfree#240000#675#Con
+B003#Kem chong nang dang sua# Missha#295000#0#Het hang
+B004#Kem Chong Nang Ngan Ngua Lao Hoa#Cel Fusion C#700000#23#Con
+B005#Xit khoang cap nuoc, chong lao hoa# Aritaum#199000#765#Con
+B006#Xit Khoang Tra Xanh 150Ml#Innisfree#280000#456#Con
+C001#Thoi Son Li 3CE#3ce#250000#2034#Con
+C002#Son Kem Li Beauty#Beauty Co#180000#421#Con
+C003#Son Kem Li 3CE#3ce#300000#2569#Con
